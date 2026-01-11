@@ -21,27 +21,9 @@ Software developer & AI engineer. I build software that builds itself (sometimes
 
 ---
 
-## ⭐ Featured projects
-- **RepoPulse** — Distributed GitHub-monitoring Telegram bot that streams high-signal repo events via a Node.js + PostgreSQL pipeline.  
-- **Project Kaksha** — AI-augmented learning platform: NLP, TTS, and accessibility tooling unified with Next.js + Flask.  
-- **HospitalOps** — Modular hospital operations platform with a TypeScript API layer and a clean UI for scalable integration.
-
----
-
-## 📫 Get in touch
-- Email: [srimanikanthmartha@gmail.com](mailto:srimanikanthmartha@gmail.com)  
-- Live: https://manikanthmartha.vercel.app
-
----
-
 ## 📈 Quick wins I can help with
 - Automating repetitive dev/workflow tasks with lightweight agents.  
 - Shipping reliable, observable job pipelines (Redis + BullMQ / background workers).  
 - Integrating ML inference in production (FastAPI / Flask + async workers).
-
----
-
-## ⚡ Want to see my work?
-Check the Projects section on my site or the repos below.  
 
 ---
